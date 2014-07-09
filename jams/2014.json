@@ -884,5 +884,14 @@
             "image": "http://jamshaker.com/wp-content/uploads/2013/07/redwire-cropped.png",
             "tags": ["france", "local", "redwire"]
         }
+        {
+            "name": "Game Work Jam",
+            "start_date": "2014-04-26",
+            "end_date": "2014-11-26",
+            "url": "http://gameworkjam.com.ar/",
+            "description": "The Work Game Jam is a free workshop that is done collaboratively in order to help you start and complete projects for video games.",
+            "image": "http://www.subeimagenes.com/img/as23-1013053.gif",
+            "tags": ["argentina", "game", "work", "jam"]
+        }
     ]
 }
